@@ -1,4 +1,4 @@
-#Real-Time Chaotic Encryption via Henon Map over Socket Communication
+# Real-Time Chaotic Encryption via Henon Map over Socket Communication
 
 ### 1. Setting up a virtual environment 
 * First open terminal and cd into the "NLD" directory
